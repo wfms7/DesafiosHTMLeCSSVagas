@@ -1,0 +1,33 @@
+.depoimentos__container{
+    width: 85%;
+    background: var(--red);
+    margin: 1rem auto;
+    text-align: center;
+    padding: 3rem 0;
+    border-radius: 16px;
+    max-width: 1280px;
+}
+
+.depoimentos__SubHeading{
+    color: var(--vinho);
+    font-size: 14px;
+    font-weight: 600;
+    margin: 1rem 0;
+}
+.depoimentos__texto{
+    font-size: 36px;
+    font-weight: 500;
+    color: var(--grayDark);
+    margin: 1rem 3rem;
+}
+.depoimentos__nome{
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--grayDark);
+    margin: .5rem;
+}
+.depoimentos__cargo{
+    font-size: 14px;
+    font-weight: 400;
+    
+}

@@ -1,0 +1,33 @@
+.footer__container{
+    background-color: var(--gray3);
+    padding: 5rem 1rem;
+    text-align: center;
+    margin-top: 8rem;
+}
+.footer__titulo{
+    color: var(--grayDark);
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+.footer__texto{
+    font-size: 20px;
+    font-weight: 400;
+    margin: 1rem 0;
+}
+.footer__cadastro--container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input__email{
+    width: 320px;
+    border-radius: 8px;
+    padding: .8rem .5rem;
+    border: 1px solid var(--graylight);
+    margin: 1rem;
+}
+.footer__info-empresa{
+    color: var(--gray);
+    margin: 1rem;
+}

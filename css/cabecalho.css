@@ -1,0 +1,24 @@
+.header__container{
+    text-align: center;
+    padding: 96px 0;
+}
+
+.header__SubHeading{
+    color: var(--vinho);
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+
+.header__titulo{
+    color: var(--grayDark);
+    font-size: 48px;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+.header__texto{
+    width: 791px;
+    margin: 0 auto;
+    font-size: 20px;
+    font-weight: 400;
+}
